@@ -4,7 +4,6 @@
 
 ###
 
-</br>
 <h2 align="left">👋 Hi, I’m Fritz!</h2>
 
 ###
@@ -13,7 +12,6 @@
 
 ###
 
-</br>
 <h2>🧑‍💻 Tech</h2>
 
 <div align="left">
