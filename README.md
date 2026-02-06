@@ -6,15 +6,6 @@
 
 <br clear="both">
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=freitzx&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=freitzx&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-</div>
-
-###
-
-<br clear="both">
-
 <p align="left">💫 A tech enthusiast with a passion for pushing the boundaries of innovation. I’m currently sharpening my expertise in software development, focusing on Dart (Flutter) and C# (.NET).<br><br>🌱 My journey includes over three years of experience with Flutter, during which I've helped develop and publish high-impact banking apps. With a strong background in the Fintech industry, I’m also expanding my knowledge to drive further advancements in this field.<br><br>🚀 I thrive on exploring cutting-edge technologies, continuously evolving my skills, and delivering impactful solutions.</p>
 
 ###
